@@ -4,7 +4,7 @@ This module provides a basic type-annotated function.
 """
 
 
-def floor (n: float) -> int:
+def floor(n: float) -> int:
     """
     Returns the floor of a float as an integer.
 
