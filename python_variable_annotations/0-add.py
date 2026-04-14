@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-This module provides a basic type-annotated function for mathematical operations.
-It is designed to demonstrate how to use float annotations in Python 3.
+This module provides a basic type-annotated function.
 """
 def add(a: float, b: float) -> float:
     """Return the sum of a and b as a float."""
